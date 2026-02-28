@@ -32,13 +32,9 @@ Most of what I build lives in private repos. The public stuff here is client sit
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat&logo=firebase&logoColor=white)
 
-## Live Work
+## Live
 
 [**rsla.io**](https://rsla.io) — RSL/A agency site. React 19, Vite, GSAP, Sanity CMS. Open source.
-
-[**freedomdrivers.org**](https://freedomdrivers.org) — Trucker advocacy platform. Next.js 16, Sanity CMS.
-
-[**tools.rsla.io**](https://tools.rsla.io) — Internal tools. Logo builder, image compressor, invoice generator.
 
 ## Connect
 
