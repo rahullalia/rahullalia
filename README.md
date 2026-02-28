@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahullalia/rahullalia/main/banner.svg" alt="RSL/A" width="100%" />
+  <img src="https://raw.githubusercontent.com/rahullalia/rahullalia/main/banner.png" alt="RSL/A" width="100%" />
 </p>
 
 <br/>
 
 I build AI systems for founders who are done doing everything manually. Lead gen that runs while you sleep. Automations that handle what used to take your team hours. CRM infrastructure that actually follows up.
 
-Most of what I build lives in private repos. The public stuff here is client sites, side projects, and [RSL/A's own website](https://rsla.io).
+Most of what I build lives in private repos. The public stuff here is client sites, side projects, and [RSL/A'''s own website](https://rsla.io).
 
-## What I'm Building
+## What I'''m Building
 
 **AI Lead Generation** — AI-optimized ad targeting across Meta and Google. Doubles down on winners automatically. Real-time dashboards with actual revenue metrics, not vanity numbers.
 
