@@ -1,26 +1,30 @@
-# Rahul Lalia
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahullalia/rahullalia/main/banner.svg" alt="RSL/A" width="100%" />
+</p>
 
-Founder of [RSL/A](https://rsla.io). I show founders how to put AI to work, then I build it for them.
+<br/>
 
-Most of what I build lives in private repos (client systems, internal tools, automations). The public stuff here is a mix of client sites, side projects, and RSL/A's own website.
+I build AI systems for founders who are done doing everything manually. Lead gen that runs while you sleep. Automations that handle what used to take your team hours. CRM infrastructure that actually follows up.
 
-## What I Build
+Most of what I build lives in private repos. The public stuff here is client sites, side projects, and [RSL/A's own website](https://rsla.io).
 
-**AI Lead Generation** — AI-optimized ad targeting across Meta and Google. Real-time dashboards with revenue metrics.
+## What I'm Building
 
-**AI Automations** — Custom AI bots, workflows, 24/7 lead handling. Your business shouldn't stop working when you do.
+**AI Lead Generation** — AI-optimized ad targeting across Meta and Google. Doubles down on winners automatically. Real-time dashboards with actual revenue metrics, not vanity numbers.
 
-**AI Operations** — Unified CRM infrastructure. Intelligent follow-ups, automated reporting, booking integration.
+**AI Automations** — Custom AI bots, workflows, 24/7 lead handling. Your business should not stop working when you do.
 
-**AI Digital Presence** — Conversion-focused design, SEO infrastructure, performance tracking, AI-assisted content.
+**AI Operations** — Unified CRM infrastructure. Intelligent follow-ups, automated reporting, booking integration. Stop managing tools. Let AI manage your business.
 
-## Tech Stack
+**AI Digital Presence** — Conversion-focused design, SEO infrastructure, performance tracking. Your website should work as hard as you do.
+
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0070F3?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-0070F3?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-111827?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0070F3?style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0070F3?style=flat&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-111827?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-0070F3?style=flat&logo=sanity&logoColor=white)
@@ -30,11 +34,11 @@ Most of what I build lives in private repos (client systems, internal tools, aut
 
 ## Live Work
 
-| Project | What it is |
-|---------|-----------|
-| [rsla.io](https://rsla.io) | RSL/A agency site. React 19 + Vite + GSAP + Sanity. |
-| [freedomdrivers.org](https://freedomdrivers.org) | Trucker advocacy platform. Next.js 16 + Sanity. |
-| [tools.rsla.io](https://tools.rsla.io) | Internal tools: logo builder, image compressor, invoices. |
+[**rsla.io**](https://rsla.io) — RSL/A agency site. React 19, Vite, GSAP, Sanity CMS. Open source.
+
+[**freedomdrivers.org**](https://freedomdrivers.org) — Trucker advocacy platform. Next.js 16, Sanity CMS.
+
+[**tools.rsla.io**](https://tools.rsla.io) — Internal tools. Logo builder, image compressor, invoice generator.
 
 ## Connect
 
